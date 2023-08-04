@@ -16,7 +16,7 @@ function App() {
     </div>
   </nav>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
