@@ -27,6 +27,7 @@ function App() {
           <a className="navbar-link" href="#">
             Registration
           </a>
+          <button className="btn">Logout</button>
         </div>
       </nav>
     </>
