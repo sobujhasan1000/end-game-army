@@ -33,6 +33,12 @@ function App() {
           <button className="btn">Logout</button>
         </div>
       </nav>
+      <div>
+        <form>
+          <label>Name: </label>
+          <input type="text" />
+        </form>
+      </div>
     </>
   );
 }
