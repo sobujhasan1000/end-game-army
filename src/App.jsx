@@ -13,6 +13,9 @@ function App() {
             About
           </a>
           <a className="navbar-link" href="#">
+            About
+          </a>
+          <a className="navbar-link" href="#">
             Services
           </a>
           <a className="navbar-link" href="#">
